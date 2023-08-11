@@ -1,0 +1,40 @@
+body {
+	background: grey;
+}
+
+#my404 {
+	vertical-align: middle;
+	align-content: center;
+	color: red;
+	text-align: center;
+	font-size: 100px;
+}
+
+#mainindex {
+	vertical-align: middle;
+	align-content: center;
+	color: green;
+	text-align: center;
+	font-size: 100px;
+}
+
+#subindex {
+	vertical-align: middle;
+	align-content: center;
+	color: green;
+	text-align: center;
+	font-size: 100px;
+}
+
+#newpage {
+	vertical-align: middle;
+	align-content: center;
+	color: blue;
+	text-align: center;
+	font-size: 100px;
+}
+
+.myimage {
+	height: 400px;
+	width: 500px;
+}
